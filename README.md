@@ -14,7 +14,8 @@ Disini saya hanya menggunakan php untuk menjembatani frontend dengan database my
     - Sebuah view untuk menampilkan hasil olah data ke FE.<br>
 </details>
 
-<p>
-   Berikan dukunganmu jika program sederhana ini bermanfaat.<br>
- <a href="https://saweria.co/aveiro88">saweria.co</a>
-</p>
+<p>Berikan dukunganmu jika program sederhana ini bermanfaat.</p>
+
+<h2>
+  <a href="https://saweria.co/aveiro88" target="_blank">saweria.co</a>
+</h2>
